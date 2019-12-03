@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+     <tab
+    id="@+id/tab_message"
+     icon="@drawable/xiaoxi"
+     title="消息" />
+      <tab
+      id="@+id/tab_friends"
+      icon="@drawable/haoyou"
+      title="好友" />
+     <tab
+      id="@+id/tab_more"
+     icon="@drawable/dongtai"
+      title="动态" />
+
+
+</PreferenceScreen>

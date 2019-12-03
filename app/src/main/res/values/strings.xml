@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SmartChat</string>
+    <string name="username_error">用户名格式错误，3-20位，首字母必须为英文字符</string>
+    <string name="password_error">密码不合法，3-20位数字</string>
+    <string name="logining">正在登陆</string>
+    <string name="login_error">登录失败</string>
+    <string name="permission_denied">权限被拒绝</string>
+    <string name="registering">正在注册</string>
+    <string name="register_fail">注册失败</string>
+    <string name="register_success">注册成功</string>
+    <string name="unlog">退(%s)出</string>
+    <string name="dongtai">动态</string>
+    <string name="outfail">退出失败</string>
+    <string name="outsuccess">退出成功</string>
+    <string name="linkman">联系人</string>
+    <string name="holder">温馨提示</string>
+    <string name="user_del">确认删除(%s)好友么</string>
+    <string name="cancle">取消</string>
+    <string name="confirm">确认</string>
+    <string name="del_success">删除好友成功</string>
+    <string name="del_fail">删除好友失败</string>
+    <string name="add_user">添加好友</string>
+    <string name="chattitle">与%s聊天中</string>
+    <string name="send_success">消息发送成功</string>
+    <string name="send_err">发送失败</string>
+    <string name="no_text_message">非文本消息</string>
+    <string name="message">消息</string>
+    <string name="untext">非文本消息</string>
+    <string name="new_message">收到一条新消息</string>
+</resources>

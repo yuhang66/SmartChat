@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/blue"
+    >
+
+    <ImageView
+        android:id="@+id/title_back"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:src="@mipmap/fanhui"
+        android:padding="20dp"
+        />
+   <TextView
+       android:id="@+id/title_text"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="20dp"
+       android:textSize="18sp"
+       android:textStyle="bold"
+       android:layout_centerHorizontal="true"
+       android:textColor="#FFFFFF"
+       />
+
+    <ImageView
+        android:id="@+id/title_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:padding="20dp"
+        android:src="@mipmap/add"
+        android:visibility="invisible" />
+</RelativeLayout>
